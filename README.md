@@ -83,5 +83,4 @@ plt.ylabel("Percentage")
 plt.show()
 
 link this live on githube:
-https://github.com/Ajayverma1502/Home-loan-predictions/tree/main
  https://ajayverma1502.github.io/Home-Loan-Predictions/
